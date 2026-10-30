@@ -1,4 +1,0 @@
-interface:
-  display_name: "组件样式选型"
-  short_description: "根据截图或描述搜索多站组件样式，提供预览、来源与适配建议"
-  default_prompt: "使用 $ui-style-scout，根据我提供的截图或组件描述搜索样式，给出 3～5 个有明显区别的候选，并附预览、原始链接和推荐理由。"
